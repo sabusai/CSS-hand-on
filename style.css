@@ -1,0 +1,16 @@
+.test{
+    background-color: yellow;
+    font-weight: bold;
+}
+h1{color: red;}
+h3{color:red;
+font-style: italic; 
+}
+.list{font-style: italic;
+text-decoration: underline;}
+.list2{letter-spacing:4px;
+}
+.test2{text-decoration: line-through;}
+a{color: red;
+background-color: yellow;
+font-style: italic;}
